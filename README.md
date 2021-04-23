@@ -1,2 +1,2 @@
 # dwfe-7
- Hola a tofdos, este es nuestro proyecto.
+ Hola a todos, este es nuestro proyecto.
